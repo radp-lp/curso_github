@@ -1,2 +1,1 @@
-# curso_github 
-# asdfgqwertzxcvb
+# curso_github
